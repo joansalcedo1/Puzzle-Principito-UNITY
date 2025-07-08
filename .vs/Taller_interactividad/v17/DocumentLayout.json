@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Taller_interactividad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\desaparecer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desaparecer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\efectos de sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\efectos de sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\empezarjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\empezarjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|d:\\unity projects\\taller_interactividad\\assets\\scripts\\conversacionnpc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conversacionnpc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\activarsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activarsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|D:\\Unity Projects\\Taller_interactividad\\assets\\scripts\\activarjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8317FB51-9415-A823-76AA-6556CD0ED4D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activarjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conversacionNpc5.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\conversacionNpc5.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\conversacionNpc5.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\conversacionNpc5.cs",
+              "RelativeToolTip": "Assets\\scripts\\conversacionNpc5.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:27:42.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpezarJuego.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\EmpezarJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EmpezarJuego.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\EmpezarJuego.cs",
+              "RelativeToolTip": "Assets\\scripts\\EmpezarJuego.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:23:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\Musica.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Musica.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\Musica.cs",
+              "RelativeToolTip": "Assets\\scripts\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:06:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Efectos de sonido.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\Efectos de sonido.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Efectos de sonido.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\Efectos de sonido.cs",
+              "RelativeToolTip": "Assets\\scripts\\Efectos de sonido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:02:42.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "desaparecer.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\desaparecer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\desaparecer.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\desaparecer.cs",
+              "RelativeToolTip": "Assets\\scripts\\desaparecer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:11:19.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMove.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerMove.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAIwNEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:19:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivarSonido.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\ActivarSonido.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ActivarSonido.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\ActivarSonido.cs",
+              "RelativeToolTip": "Assets\\scripts\\ActivarSonido.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:03:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivarJuego.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\ActivarJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ActivarJuego.cs",
+              "ToolTip": "D:\\Unity Projects\\Taller_interactividad\\Assets\\scripts\\ActivarJuego.cs",
+              "RelativeToolTip": "Assets\\scripts\\ActivarJuego.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:02:07.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
