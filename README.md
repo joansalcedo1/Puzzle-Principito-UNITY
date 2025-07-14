@@ -1,9 +1,5 @@
-# 🎮 Nombre del Proyecto
+# Puzzle-Principito
 
-**Tipo de aplicación:** Aplicación interactiva / Simulación educativa / Juego serio / Otro  
-**Tecnología:** Unity (versión X.X.X)  
-**Plataformas:** Windows / WebGL / Android / etc.  
-**Orientado a:** Aprendizaje / entrenamiento / sensibilización / práctica guiada
 
 **Tipo de aplicación:** Interactivo educativo – Puzzle musical narrativo
 
